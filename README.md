@@ -2,20 +2,20 @@
 
 # 👋 Hello, I’m Mohammad Sami Shaikh
 
-![visitor badge](https://komarev.com/ghpvc/?username=MSamiDev&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/MSamiDev.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/MSamiDev?tab=followers)
+![visitor badge](https://komarev.com/ghpvc/?username=MoKnowOrg&style=for-the-badge&color=F26F2D) [![GitHub followers](https://img.shields.io/github/followers/MoKnowOrg.svg?style=for-the-badge&label=Follow&color=F26F2D)](https://github.com/MoKnowOrg?tab=followers)
 <!---
-MSamiDev/MSamiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MoKnowOrg/MoKnowOrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Contribution Graph-->
 
-[![Mohammad Sami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MSamiDev&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/MSamiDev)
+[![Mohammad Sami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoKnowOrg&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/MoKnowOrg)
 
 |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=MSamiDev&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=MSamiDev&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)       |
-| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=MSamiDev&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohammad Sami](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSamiDev&theme=gruvbox)        |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api?username=MoKnowOrg&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | ![Mohammad Sami](https://github-readme-streak-stats.herokuapp.com/?user=MoKnowOrg&theme=dark&hide_border=true&background=010811&fire=F26F2D&ring=F3CCAE&stroke=F5F3E4&currStreakLabel=F26F2D&sideNums=F26F2D&sideLabels=F3CCAE)       |
+| ![Mohammad Sami](https://github-readme-stats.vercel.app/api/top-langs/?username=MoKnowOrg&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mohammad Sami](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoKnowOrg&theme=gruvbox)        |
   
 ***
 
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadsamishaikh/)
 [![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_from_ummah/)
-[![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MSamiDev/)
+[![Twitter](https://img.shields.io/badge/Twitter-3091f3?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MoKnowOrg/)
   
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -130,7 +130,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/MSamiDev/MSamiDev/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/MoKnowOrg/MoKnowOrg/main/assets/bar_graph.png)
 
 
  Last Updated on 16/11/2024 18:47:42 UTC
